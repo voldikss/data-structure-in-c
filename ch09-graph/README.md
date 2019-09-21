@@ -6,5 +6,5 @@
 
 ## Representations
 
-- [`./list`](./list), represent a graph using adjacent list
+- [`./linkedlist`](./linkedlist), represent a graph using adjacent list
 - [`./matrix`](./matrix), represent a graph using adjacent matrix
